@@ -5,6 +5,6 @@
 - Here we need to mention what types of files need to added like pdf, images, etc and folder location also.
 - For folder location if we have sub folder means that not inculde with Git LFS.
 ```Bash Script
-chmod +x git-lfs.sh, 
+chmod +x git-lfs.sh 
 then run as ./git-lfs.sh
 ```
